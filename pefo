@@ -1,0 +1,53 @@
+[33mcommit dc6b88820448c0d367c76d2458f2ac50f7e756f7[m[33m ([m[1;36mHEAD -> [m[1;32mversion2[m[33m)[m
+Author: kiana <kiana.hobbs@gmail.com>
+Date:   Wed May 6 13:47:45 2020 -0500
+
+    Updated version with interactivity
+
+[33mcommit b02b290908c83e617a16d967753209ed11527bb2[m[33m ([m[1;32mmaster[m[33m)[m
+Author: kiana <kiana.hobbs@gmail.com>
+Date:   Wed May 6 11:50:23 2020 -0500
+
+    Casey Reas Remake
+
+[33mcommit fda660ad48d4d029cce62717ad41ac320c876fc4[m
+Author: kiana <kiana.hobbs@gmail.com>
+Date:   Wed May 6 09:17:25 2020 -0500
+
+    Getting Started
+
+[33mcommit 945a9b4042a25e0e9e48b8064b284c8fb5115ec6[m
+Author: Nick Briz <nickbriz@gmail.com>
+Date:   Wed Apr 29 13:53:39 2020 -0500
+
+    fixed grammer
+
+[33mcommit ddd01754bc683a35716a4bacfd2503ce0258251a[m
+Author: Nick Briz <nickbriz@gmail.com>
+Date:   Wed Apr 29 13:52:54 2020 -0500
+
+    added image from video tutorials
+
+[33mcommit 8a69c79446807833c169d771d575aa1a66aee6f0[m
+Author: Nick Briz <nickbriz@gmail.com>
+Date:   Wed Apr 29 13:51:15 2020 -0500
+
+    Update README.md
+
+[33mcommit ebc8e8a339e5a301ad291232d93b36c52fc0696b[m
+Author: nbriz <nickbriz@gmail.com>
+Date:   Mon Apr 27 15:58:01 2020 -0500
+
+    added ghpages URL to og meta-tag
+
+[33mcommit 982461ae32a3ef37f8a50cdbd4a4f10ce972e4cb[m
+Author: nbriz <nickbriz@gmail.com>
+Date:   Mon Apr 27 15:52:04 2020 -0500
+
+    added initial template
+
+[33mcommit f859ea18ba77da9d4eaffa387a32e27344892fd5[m
+Author: Nick Briz <nickbriz@gmail.com>
+Date:   Mon Apr 27 15:39:38 2020 -0500
+
+    Initial commit
