@@ -1,10 +1,10 @@
 # FORM + CODE
 
 ## Instructions
-Click - Change drawing from ellipse to rectangle
-Space - Pause drawing / Unpause drawing
-Up Arrow - Increase transparency
-Down Arrow - Decrease transparency
+<strong>Click</strong> - Change drawing from ellipse to rectangle <br>
+<strong>Space</strong>- Pause drawing / Unpause drawing <br>
+<strong>Up Arrow</strong>- Increase transparency <br>
+<strong>Down Arrow</strong>- Decrease transparency
 
 
 ![p5.js + canvas](http://i3.ytimg.com/vi/s01IVHrWmjM/maxresdefault.jpg)
