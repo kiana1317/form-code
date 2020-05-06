@@ -1,3 +1,7 @@
+// *********
+// This is version 1 of the project. 
+// Version 2 can be found under the branch Version2.
+// *********
 let d = 100
 let total = 100
 let xs = Array(100).fill(innerWidth / 2)
