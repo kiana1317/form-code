@@ -4,8 +4,8 @@
 <strong>Click</strong> - Change drawing from ellipse to rectangle <br>
 <strong>Space</strong>- Pause drawing / Unpause drawing <br>
 <strong>Up Arrow</strong>- Increase transparency <br>
-<strong>Down Arrow</strong>- Decrease transparency
-<strong>e</strong>- Draw Ellipse
+<strong>Down Arrow</strong>- Decrease transparency <br>
+<strong>e</strong>- Draw Ellipse <br>
 <strong>r</strong>- Draw Rectangle
 
 
