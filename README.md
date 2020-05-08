@@ -5,6 +5,8 @@
 <strong>Space</strong>- Pause drawing / Unpause drawing <br>
 <strong>Up Arrow</strong>- Increase transparency <br>
 <strong>Down Arrow</strong>- Decrease transparency
+<strong>e</strong>- Draw Ellipse
+<strong>r</strong>- Draw Rectangle
 
 
 ![p5.js + canvas](http://i3.ytimg.com/vi/s01IVHrWmjM/maxresdefault.jpg)
